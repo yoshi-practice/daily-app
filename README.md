@@ -19,3 +19,8 @@ unifie with `day-XX` .
    ...
 ```
 
+## Message
+Please give me an idea!
+
+### How can I provide it?
+Please create a new Issue.
