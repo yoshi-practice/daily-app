@@ -4,7 +4,7 @@ This is a repository of "Develop 1 application everyday" project.
 ---
 
 - DAY1 [カメラアプリ](https://github.com/yoshi1125hisa/ionic-camera)
- - ionic / Angular / Cordova
+  - ionic / Angular / Cordova
 
 ---
 
