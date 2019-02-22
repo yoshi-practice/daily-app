@@ -3,8 +3,14 @@ This is a repository of "Develop 1 application everyday" project.
 
 ---
 
-- DAY1 [Camera app](https://github.com/yoshi1125hisa/ionic-camera)
+- DAY1 [Camera app](https://github.com/yoshi1125hisa/ionic-camera) ![](https://img.shields.io/github/stars/yoshi1125hisa/ionic-camera.svg?style=flat-square)
   - ionic / Angular / Cordova
+- DAY2 [Camera app](https://github.com/yoshi1125hisa/android-camera-app) ![](https://img.shields.io/github/stars/yoshi1125hisa/android-camera-app.svg?style=flat-square)
+  - Android / Java
+- DAY3 [ToDo app](https://github.com/yoshi1125hisa/todo-android) ![](https://img.shields.io/github/stars/yoshi1125hisa/todo-android.svg?style=flat-square)
+  - Android / Kotlin
+- DAY4 [Tap effect app](https://github.com/yoshi1125hisa/tap-effect-android) ![](https://img.shields.io/github/stars/yoshi1125hisa/tap-effect-android.svg?style=flat-square)
+  - Android / Java
 
 ---
 
